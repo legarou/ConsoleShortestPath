@@ -24,7 +24,9 @@ public class Main {
                 System.out.println("PATH:\t\tCall the shortest path program. You will have to enter the start and end point, and can choose between using your own profile or setting up a new one. " +
                         "\nYour profile preferences will not be changed.");
                 System.out.println("PROFILE:\tSet up your profile preferences, which guide your path results.");
+                System.out.println("ALGORITHM:\tChange the algorithm setting in your profile.");
                 System.out.println("QUIT:\t\tQuit the program.");
+
             }
             else if (input.equalsIgnoreCase("PROFILE")) {
                 for(int i = 0; i < profileQuestions.length;){
