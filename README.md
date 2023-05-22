@@ -1,5 +1,9 @@
 # ConsoleShortestPath
 
+## Library used
+The shortestPath library was used, it can be found here: https://github.com/legarou/shortestPath
+
+## Application Description
 When using the console application, the follwoing actions are possible:
   - READ
  
